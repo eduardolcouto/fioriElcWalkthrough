@@ -10,5 +10,5 @@ sap.ui.define(
         new Text({
             text:"Eduardo Couto"
         }).placeAt('ondeEuQuiser');
-        //Step 03
+        //Step 04
 }); 
