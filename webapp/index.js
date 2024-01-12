@@ -13,5 +13,5 @@ sap.ui.define(
         //Step 05
         new Text({
             text:"Eduardo Couto"
-        }).placeAt('Nova div step5');
+        }).placeAt('Nova div step6');
 }); 
